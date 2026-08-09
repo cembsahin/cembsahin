@@ -53,9 +53,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
+**Testing & CI**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ### Featured Projects
 
-**Access Review & Audit Log Visualizer:** [Repo](https://github.com/cembsahin/access-audit-visualizer) — a Flask + SQLAlchemy app that ingests identity/access export CSVs and flags stale or high-risk accounts, with a dashboard visualizing access by department.
+**Access Review & Audit Log Visualizer:** [Repo](https://github.com/cembsahin/access-audit-visualizer) · [Live Demo](https://access-audit-visualizer.onrender.com) — a Flask + SQLAlchemy app that ingests identity/access export CSVs and flags stale or high-risk accounts, with a dashboard visualizing access by department. Includes automated pytest tests and CI via GitHub Actions.
 
 **Housing Market Dashboard:** Interactive Streamlit dashboard visualizing US housing market trends. Built with Python, Pandas, and Plotly using live data from Zillow and FRED.
 
