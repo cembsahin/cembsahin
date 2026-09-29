@@ -4,7 +4,7 @@
 
 ### About Me
 
-• IT Administrator with 5+ years managing identity, endpoint, and infrastructure systems (Okta, Jamf, Intune, Azure AD)
+• IT Administrator with 6+ years managing identity, endpoint, and infrastructure systems (Okta, Jamf, Intune, Azure AD)
 
 • Pivoting into full-stack development, building on a background of automation and internal tooling
 
